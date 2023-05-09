@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bxghgcc7h9QILeN8yalcGsgLGnGjb8jWlvGVU5dE6WE=",
+  "Source": "Senac.GestãoReceita.WebAPI",
+  "BasePath": "_content/Senac.GestãoReceita.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
